@@ -1,0 +1,12 @@
+{
+  "mode": "CONTROLLED GAP-RECOVERY DEMONSTRATION ON OFFICIAL DATA",
+  "records": 2373,
+  "audited_fields": 9492,
+  "missing_before": 80,
+  "missing_after": 0,
+  "completeness_before_pct": 99.16,
+  "completeness_after_pct": 100.0,
+  "source_backed_updates": 80,
+  "rejected_proposals": 1,
+  "records_requiring_review": 1216
+}
