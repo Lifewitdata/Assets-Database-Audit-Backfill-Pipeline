@@ -1,5 +1,9 @@
 # Property Research Database — Coverage, Evidence & Audit Trails
 
+**Start with the executed Python analysis:** [Open the Jupyter notebook](notebooks/01_property_data_quality_and_recovery.ipynb). It includes visible Python code, result tables, charts and written findings. Streamlit is an optional dashboard, not a replacement for the analysis.
+
+To run the notebook, install the project's dependencies below, then `python -m pip install -r requirements-notebooks.txt`. Open it in Jupyter or VS Code and run all cells from a fresh kernel. For automated execution, run `python scripts/verify_notebooks.py`. GitHub Actions executes every cell as a separate check.
+
 A Python/SQL project demonstrating the database maintenance behind real estate market research: identify missing fields, recover them from traceable source evidence, preserve unresolved exceptions and prepare a reviewer brief.
 
 This complements a comparable-sales analysis project by focusing on **research database reliability and controlled updates**, not valuation modelling.
